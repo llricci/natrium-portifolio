@@ -1,8 +1,11 @@
+/* Fira Code: https://github.com/tonsky/FiraCode */
+@import url(https://cdn.jsdelivr.net/npm/firacode@6.2.0/distr/fira_code.css);
+
 :root {
   --background: #000000;
   --foreground: #4eee85;
   --accent: #4eee85;
-  --radius: ;
+  --radius: 0;
   --font-size: 1rem;
   --line-height: 1.54em;
 }
