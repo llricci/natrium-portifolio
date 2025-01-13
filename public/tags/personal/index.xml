@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Personal on Natrium Blog</title>
+    <link>/tags/personal/</link>
+    <description>Recent content in Personal on Natrium Blog</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="/tags/personal/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Who am I?</title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/about/about/</guid>
+      <description>&lt;p&gt;My name is &lt;strong&gt;Lucas&lt;/strong&gt;, AKA Natrium&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. I am a simple geek &lt;strong&gt;back-end developer&lt;/strong&gt;, who likes to &lt;strong&gt;shuffle cards&lt;/strong&gt;, &lt;strong&gt;play games&lt;/strong&gt; and &lt;strong&gt;program&lt;/strong&gt; in my free time.&lt;/p&gt;&#xA;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;&#xA;&lt;hr&gt;&#xA;&lt;ol&gt;&#xA;&lt;li id=&#34;fn:1&#34;&gt;&#xA;&lt;p&gt;IPA / ˈneɪ tri əm / -&amp;gt; Meaning: Sodium&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;/div&gt;</description>
+    </item>
+  </channel>
+</rss>
