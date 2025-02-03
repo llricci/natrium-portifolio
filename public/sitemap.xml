@@ -17,6 +17,8 @@
     <loc>/tags/</loc>
     <lastmod>2025-01-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>/about/about/</loc>
+  </url><url>
     <loc>/about/</loc>
   </url><url>
     <loc>/categories/</loc>
@@ -27,14 +29,10 @@
   </url><url>
     <loc>/contact/</loc>
   </url><url>
-    <loc>/tags/personal/</loc>
-  </url><url>
     <loc>/tags/projects/</loc>
   </url><url>
     <loc>/projects/</loc>
   </url><url>
     <loc>/projects/projects/</loc>
-  </url><url>
-    <loc>/about/about/</loc>
   </url>
 </urlset>

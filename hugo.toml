@@ -87,7 +87,7 @@ paginate = 5
       words = "words"
 
       [languages.en.params.logo]
-        logoText = "Natrium Blog"
+        logoText = "Natrium"
         logoHomeLink = "/"
 
       [languages.en.menu]

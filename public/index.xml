@@ -19,6 +19,19 @@
     </item>
     
     <item>
+      <title></title>
+      <link>/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/about/about/</guid>
+      <description>&lt;h1 id=&#34;welcome-bem-vindo-wilkommen&#34;&gt;Welcome! Bem-Vindo! Wilkommen!&lt;/h1&gt;
+&lt;p&gt;My name is &lt;strong&gt;Lucas&lt;/strong&gt;, I am a backend developer and this is my portifolio&lt;/p&gt;</description>
+      <content>&lt;h1 id=&#34;welcome-bem-vindo-wilkommen&#34;&gt;Welcome! Bem-Vindo! Wilkommen!&lt;/h1&gt;
+&lt;p&gt;My name is &lt;strong&gt;Lucas&lt;/strong&gt;, I am a backend developer and this is my portifolio&lt;/p&gt;
+</content>
+    </item>
+    
+    <item>
       <title>Contact</title>
       <link>/contact/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -65,33 +78,6 @@
 &lt;li&gt;&lt;a href=&#34;https://github.com/natriumdev/cryptography-tools&#34;&gt;Cryptograph Tools&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/natriumdev/diceware&#34;&gt;Diceware Password Generator&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
-</content>
-    </item>
-    
-    <item>
-      <title>Who am I?</title>
-      <link>/about/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>/about/about/</guid>
-      <description>&lt;p&gt;My name is &lt;strong&gt;Lucas&lt;/strong&gt;, AKA Ricci&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. I am a simple geek &lt;strong&gt;back-end developer&lt;/strong&gt;, who likes to &lt;strong&gt;shuffle cards&lt;/strong&gt;, &lt;strong&gt;play games&lt;/strong&gt; and &lt;strong&gt;program&lt;/strong&gt; in my free time. And I like the color &lt;strong&gt;blue&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;IPA /ˈrit.tʃi/ -&amp;gt; The &amp;ldquo;cc&amp;rdquo; pronunciation is as in the &amp;ldquo;ch&amp;rdquo; in &amp;ldquo;cheese&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;</description>
-      <content>&lt;p&gt;My name is &lt;strong&gt;Lucas&lt;/strong&gt;, AKA Ricci&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;. I am a simple geek &lt;strong&gt;back-end developer&lt;/strong&gt;, who likes to &lt;strong&gt;shuffle cards&lt;/strong&gt;, &lt;strong&gt;play games&lt;/strong&gt; and &lt;strong&gt;program&lt;/strong&gt; in my free time. And I like the color &lt;strong&gt;blue&lt;/strong&gt;&lt;/p&gt;
-&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
-&lt;hr&gt;
-&lt;ol&gt;
-&lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;IPA /ˈrit.tʃi/ -&amp;gt; The &amp;ldquo;cc&amp;rdquo; pronunciation is as in the &amp;ldquo;ch&amp;rdquo; in &amp;ldquo;cheese&amp;rdquo;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
-&lt;/li&gt;
-&lt;/ol&gt;
-&lt;/div&gt;
 </content>
     </item>
     

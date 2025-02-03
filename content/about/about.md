@@ -1,9 +1,3 @@
----
-title: Who am I?
-draft: false
-tags:
-  - personal
----
-My name is **Lucas**, AKA Ricci[^1]. I am a simple geek **back-end developer**, who likes to **shuffle cards**, **play games** and **program** in my free time. And I like the color **blue**
+# Welcome! Bem-Vindo! Wilkommen!
 
-[^1]: IPA /ˈrit.tʃi/ -> The "cc" pronunciation is as in the "ch" in "cheese"
+My name is **Lucas**, I am a backend developer and this is my portifolio
