@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natrium Blog</title>
-    <link>//localhost:1313/</link>
+    <link>/</link>
     <description>Recent content on Natrium Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>//localhost:1313/posts/first/</link>
+      <link>/posts/first/</link>
       <pubDate>Mon, 13 Jan 2025 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/first/</guid>
+      <guid>/posts/first/</guid>
       <description>&lt;p&gt;Hello World!&lt;/p&gt;</description>
       <content>&lt;p&gt;Hello World!&lt;/p&gt;
 </content>
@@ -20,10 +20,10 @@
     
     <item>
       <title></title>
-      <link>//localhost:1313/about/about/</link>
+      <link>/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/about/</guid>
+      <guid>/about/about/</guid>
       <description>&lt;h1 id=&#34;welcome-bem-vindo-wilkommen&#34;&gt;Welcome! Bem-Vindo! Wilkommen!&lt;/h1&gt;
 &lt;p&gt;My name is &lt;strong&gt;Lucas&lt;/strong&gt;, I am a backend developer and this is my portifolio&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;welcome-bem-vindo-wilkommen&#34;&gt;Welcome! Bem-Vindo! Wilkommen!&lt;/h1&gt;
@@ -33,10 +33,10 @@
     
     <item>
       <title>Contact</title>
-      <link>//localhost:1313/contact/contact/</link>
+      <link>/contact/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/contact/contact/</guid>
+      <guid>/contact/contact/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Access the links with the middle mouse click&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://linktr.ee/lucaslricci&#34;&gt;Linktree&lt;/a&gt;&lt;/li&gt;
@@ -60,10 +60,10 @@
     
     <item>
       <title>Projects</title>
-      <link>//localhost:1313/projects/projects/</link>
+      <link>/projects/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/projects/projects/</guid>
+      <guid>/projects/projects/</guid>
       <description>&lt;p&gt;&lt;strong&gt;Access the links with the middle mouse click&lt;/strong&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://github.com/natriumdev/natrium-blog&#34;&gt;Personal Site&lt;/a&gt;&lt;/li&gt;

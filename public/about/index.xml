@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abouts on Natrium Blog</title>
-    <link>//localhost:1313/about/</link>
+    <link>/about/</link>
     <description>Recent content in Abouts on Natrium Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="//localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="/about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title></title>
-      <link>//localhost:1313/about/about/</link>
+      <link>/about/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/about/about/</guid>
+      <guid>/about/about/</guid>
       <description>&lt;h1 id=&#34;welcome-bem-vindo-wilkommen&#34;&gt;Welcome! Bem-Vindo! Wilkommen!&lt;/h1&gt;
 &lt;p&gt;My name is &lt;strong&gt;Lucas&lt;/strong&gt;, I am a backend developer and this is my portifolio&lt;/p&gt;</description>
       <content>&lt;h1 id=&#34;welcome-bem-vindo-wilkommen&#34;&gt;Welcome! Bem-Vindo! Wilkommen!&lt;/h1&gt;
